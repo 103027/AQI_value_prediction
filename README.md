@@ -1,4 +1,4 @@
-# Data Science Project: Weather and Air Quality Index (AQI) Analysis
+# Air Quality Index (AQI) Analysis
 
 ## 📌 Project Overview
 This project focuses on weather data analysis, rain prediction, and Air Quality Index (AQI) analysis. It involves data scraping, feature engineering, exploratory data analysis (EDA), and machine learning models to predict AQI values and analyze environmental factors affecting air quality.
